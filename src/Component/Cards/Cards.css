@@ -4,12 +4,13 @@
     display: flex;
   justify-content: center; /* horizontal */
   align-items: center; 
+
     
 }
 
 .Mini-container{
     display: flex;
-    border-radius: 20px;
+    border-radius: 30px;
     margin: 90px;
     
 
@@ -124,15 +125,14 @@ P{
     .Mini-container{
         display: flex;
         flex-direction: column;
+        margin-top: 1000px;
 
     }
 
     .Main-container{
-        border: 1px solid white;
         background-color: white;
         width: 100%;
-        height: 600px;
-        margin-left: 0px;
+        height: 100vh;
 
     }
     
